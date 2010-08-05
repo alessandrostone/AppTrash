@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+	<channel>
+		<title>AppTrash Updates</title>
+		<link>http://github.com/mattrajca/AppTrash/raw/master/updates.xml</link>
+		<description>AppTrash Updates</description>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<language>en</language>
+		<pubDate>Tue, 03 Aug 2010 09:00:53 -0500</pubDate>
+		<lastBuildDate>Tue, 03 Aug 2010 09:00:53 -0500</lastBuildDate>
+		<atom:link href="http://github.com/mattrajca/AppTrash/raw/master/updates.xml" rel="self" type="application/rss+xml"/>
+	</channel>
+</rss>
