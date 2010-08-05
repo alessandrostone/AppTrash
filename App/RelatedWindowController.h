@@ -11,6 +11,7 @@
   @private
 	NSArrayController *filesController;
 	NSImageView *appIconView;
+	NSString *applicationPath;
 	BOOL checked;
 }
 
