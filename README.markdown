@@ -3,6 +3,8 @@ AppTrash
 
 When you drag an application to the Trash to "uninstall" it, caches, preferences, and other related files are still left behind in your home folder. AppTrash helps you keep your Mac tidy by prompting you to delete any related application files whenever you drag an application to the Trash.
 
+Watch a [screencast](http://vimeo.com/13899207) of AppTrash in action!
+
 Usage
 -----
 
