@@ -170,9 +170,7 @@
 	
 	if ([self isAppRunning:&app]) {
 		[app terminate];
-		
 		self.running = NO;
-		[self updateStatus];
 	}
 }
 
@@ -207,6 +205,11 @@
 	[self uninstallApp];
 	
 	[self updateStatus];
+}
+
+- (void)dealloc {
+	[installPath release];
+	[super dealloc];
 }
 
 @end
