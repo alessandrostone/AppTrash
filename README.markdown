@@ -6,6 +6,8 @@ When you drag an application to the Trash to "uninstall" it, caches, preferences
 Usage
 -----
 
+Note: Snow Leopard is required
+
 1. Download the latest release of AppTrash [here](http://github.com/mattrajca/AppTrash/downloads). Updates will provided using Sparkle.
 2. Double-click on the downloaded Preference Pane to install it.
 3. Once the Preference Pane opens in System Preferences, press the 'Install' button to install the AppTrash agent, which will launch automatically at login.
